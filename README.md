@@ -16,5 +16,4 @@ Tools & Technologies:
 9. AWS Glue Crawler
 10. AWS Glue Jobs
 11. AWS Athena
-12. AWS Redshift
-13. Spark
+12. Spark
