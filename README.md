@@ -17,3 +17,7 @@ Tools & Technologies:
 10. AWS Glue Jobs
 11. AWS Athena
 12. Spark
+
+Project Architecture:
+
+![](architecture/project_architecture.jpg)
