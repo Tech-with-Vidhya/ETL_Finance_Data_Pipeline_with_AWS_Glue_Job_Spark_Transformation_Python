@@ -20,4 +20,4 @@ Tools & Technologies:
 
 Project Architecture:
 
-![](architecture/project_architecture.jpg)
+
